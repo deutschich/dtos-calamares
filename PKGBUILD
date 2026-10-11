@@ -1,9 +1,9 @@
 # Maintainer: Rustmilian Rustmilian@proton.me
 
-pkgname=calamares-git
+pkgname=dtos-calamares-git
 _pkgname=calamares
 
-pkgver=3.4.2.r4.g841b47857
+pkgver=3.4.2.r20.gd62849a39
 pkgrel=1
 pkgdesc="Distribution-independent installer framework (git version with Python support)"
 url="https://codeberg.org/Calamares/calamares"
